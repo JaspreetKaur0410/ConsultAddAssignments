@@ -1,1 +1,1 @@
-# ConsultAddAssignments
+# GitExercises
